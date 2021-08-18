@@ -1,4 +1,4 @@
-import classes from "./meetupItem.module.css";
+import classes from "../meetups/MeetupItem.module.css";
 
 function MeetupItem(props) {
   return (
